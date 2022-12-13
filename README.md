@@ -18,7 +18,6 @@ Initially, there's a button on the center of the screen. Once you click on the b
 ### Dependencies
 1. Tailwind css
 
-Link:
-[a link] (https://vocal-gelato-076122.netlify.app)
+Link https://vocal-gelato-076122.netlify.app
 
 This project is developed by Bhavya Suri.
