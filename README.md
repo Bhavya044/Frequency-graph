@@ -1,21 +1,21 @@
 This project is based on Terribly tiny tails assignment.
 
-##Description
+## Description
 
 Initially, there's a button on the center of the screen. Once you click on the button, it fetches the data from the api provided and displays bar graph of 20 most occurring words.
 
-###Components
+### Components
 
 1. MainComponent- Renders the main screen, i.e. the fetch button and after clicking on the fetch button, it renders the histogram component.
 2. MainContainer- Contains the logic for MainComponent.
 3. HistogramComponent- Renders the graph.
 
-###Libraries used
+### Libraries used
 
 1. Axios
 2. React chart.js
 
-###Dependencies
+### Dependencies
 1. Tailwind css
 
 This project is developed by Bhavya Suri.
